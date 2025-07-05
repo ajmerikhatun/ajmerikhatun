@@ -26,10 +26,11 @@ It’s a space where I’m growing my skills, solving real-world business proble
 
 ### 💻 My Toolkit  
 
-![SQL]([https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=mysql&logoColor=white](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white))  
+![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)  
 ![Excel](https://img.shields.io/badge/-Excel-217346?style=flat-square&logo=microsoft-excel&logoColor=white)  
 ![Power BI](https://img.shields.io/badge/-Power%20BI-F2C811?style=flat-square&logo=power-bi&logoColor=black)  
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)  
+
 
 ---
 
