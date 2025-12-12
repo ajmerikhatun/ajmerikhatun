@@ -1,13 +1,12 @@
-# 🌸 Hello, problem-solver!  
+🌸 Hello, problem-solver!
 
-Welcome to my little GitHub universe 🚀   
+Welcome to my GitHub universe 🚀
 
-Here, spreadsheets turn into stories, dashboards drive smarter decisions, and SQL queries reveal insights hidden in plain sight.  
+I’m Ajmeri, an aspiring Product Manager who loves turning data into product decisions. Here, I explore user behavior, analyze metrics, and build dashboards that help teams understand what works, what doesn’t, and why.
 
-I’m **Ajmeri**, an aspiring **Business & Data Analyst** who loves digging through datasets, connecting the dots, and building visuals that make people say, *“Ohhh… now I get it!”*  
+This isn’t just code and spreadsheets—it’s a space where I solve real-world product problems, test hypotheses, and extract actionable insights to drive better user experiences and business outcomes.
 
-This isn’t just a collection of repositories.  
-It’s a space where I’m growing my skills, solving real-world business problems, and sharing my journey—one dataset at a time.  
+Every project here is a step in my journey to combine analytics, strategy, and product thinking into impactful solutions.
 
 ---
 
